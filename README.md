@@ -57,10 +57,14 @@ HOW TO START THIS PROJECT: Use BlueJ Environment to open project named
                            decrypt the message)
                            - compile, create object of 
                            type VigenereBreaker and start the function: 
-                           "breakViginere" for task 1, 2 and 3; 
+                           "breakViginere" for task 1, 2 and 3;
 
 AUTHOR: Gusev Roman
 
-USER INSTRUCTIONS: you will need library: "edu.duke.\*"
+USER INSTRUCTIONS: You will need library: "edu.duke.\*"
                    (simplified version of File function from Java)
                    and "java.util.\*"
+                   Be careful! When launching created object and 
+                   accessing the function "breakViginere", you will
+                   need to choose first encrypted message and second
+                   file - desired dictionary (English).
